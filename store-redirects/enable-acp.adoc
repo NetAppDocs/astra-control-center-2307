@@ -1,0 +1,4 @@
+---
+permalink: use/enable-acp.html
+redirect: astra-control-center-2307/index.html
+---

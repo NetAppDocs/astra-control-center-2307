@@ -1,0 +1,4 @@
+---
+permalink: use-acp/acp-snap-restore.html
+redirect: astra-control-center-2307/index.html
+---
